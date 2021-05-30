@@ -1,14 +1,14 @@
-# Build a JQuery Chat App With CometChat 
+# How to Build a Team Messenger Site With PHP (Slack Clone)
 
 Read the full tutorial here:
 
->> [Build a JQuery Chat App With CometChat]()
+>> [How to Build a Team Messenger Site With PHP (Slack Clone)]()
 
-This demo app shows how to build a full chat app with jQuery, HTML, CSS and Firebase:
+This demo app shows how to build a full chat app with PHP, CometChat and Firebase:
 
-![Static Chat](https://raw.githubusercontent.com/EBEREGIT/jQuery-CometChat/master/screenshots/5.JPG)
+![Static Chat](https://raw.githubusercontent.com/EBEREGIT/cometchat-php-slack/master/screenshots/css.JPG)
 
-![jQuery Chat in action](https://raw.githubusercontent.com/EBEREGIT/jQuery-CometChat/master/screenshots/ezgif.com-gif-maker(5).gif)
+![Chat in action](https://raw.githubusercontent.com/EBEREGIT/cometchat-php-slack/master/screenshots/ezgif.com-gif-maker(3).gif)
 
 ## Technology
 This demo uses:
@@ -17,8 +17,8 @@ This demo uses:
 
 ## Running the demo
 To run the demo follow these steps:
-* Clone this repo ``git clone https://github.com/EBEREGIT/jQuery-CometChat/``
+* Clone this repo ``git clone https://github.com/EBEREGIT/cometchat-php-slack/``
 * Replace the **firebase** and **CometChat** configuration in the ``init.js`` and ``index.js`` file with your own configurarion
-* Load the ``login.html`` file in a browser
+* Load the ``login.php`` file in a browser
 * Login/Create a user
 * You can now send and recieve messages
